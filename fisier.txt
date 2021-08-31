@@ -1,0 +1,6 @@
+portocale 17
+mere 18
+struguri 53
+ananas 3
+BANANE 4
+pere 2

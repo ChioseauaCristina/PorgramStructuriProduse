@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1615824071 source:c:\users\hp\onedrive - universitatea politehnica timisoara\poli\tp\fisiere\apl4.7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1615975661 source:c:\users\chios\onedrive - universitatea politehnica timisoara\poli\tp\fisiere\apl4.7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1629290905 source:c:\users\hp\onedrive - universitatea politehnica timisoara\invatare\c\apl4.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
